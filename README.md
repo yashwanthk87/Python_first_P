@@ -1,1 +1,5 @@
 # Python_first_P
+
+A BASIC PYTHON GAME
+
+NAME: SNAKE, WATER AND GUN GAME
